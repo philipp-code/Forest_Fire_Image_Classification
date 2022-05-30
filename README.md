@@ -19,6 +19,12 @@ We also utilize Data Augmentation, Dropout and the Keras-Tuner Framework to opti
 * Tensorflow
 * Keras
 
+## Authors
+
+Contributors names and contact info
+
+Julia Albrecht  
+[@juliaalbrecht](https://github.com/julialbrecht)
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
