@@ -2,6 +2,7 @@
 
 In this project, we trained a Convolutional Neural Network on Images with and without Forest Fires. Our final F1 Score on the test data set was 0,964. An additional visual test on 20 images proofed the model to be confident in its classification decisions. We suggest the model to be further tested in the field.
 
+![Exemplary Forest Fire Image](F_11.jpg "Forest Fire Image")
 ## Description
 
 In the 01_EDA Notebook we perform a light exploratory analysis on the dataset. \
